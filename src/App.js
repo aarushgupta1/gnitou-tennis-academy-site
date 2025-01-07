@@ -37,7 +37,7 @@ function DropDownDiv() {
 function SmallNormalHeader() {
   return (<header id="normal-header">
       <div className="gta-container flex-element">
-        <div className="gta-icon-container"><img className="gta-icon" src="gta-icon.jpg" alt="Gnitou Tennis Academy icon" />
+        <div className="gta-icon-container"><img className="gta-icon" src="gta-icon.jpg"  alt="Gnitou Tennis Academy icon" />
         <h1>Gnitou Tennis Academy</h1></div>
         <p className="drop-down" id="drop-down-bars">__<br></br>__<br></br>__</p>
       </div>
@@ -79,9 +79,7 @@ function App() {
       window.addEventListener('resize', handleResize);
     })
   return (
-    
     <div>
-    <body>
     <header onClick={handleDropDownClick}>
           {!IsScreenBig ? (DropDownEnabled ? <DropDownHeader/> : <SmallNormalHeader/>) : (<BigNormalHeader/>)}
         </header>
@@ -102,8 +100,8 @@ function App() {
                <iframe title="First video"
                 width="420"
                 height="315"
-                src="https://www.youtube.com/embed/3-R-YLC-f90?controls=0" frameborder="0"
-allow="accelerometer; autoplay; modestbranding; encrypted-media; gyroscope; picture-in-picture" allowfullscreen
+                src="https://www.youtube.com/embed/3-R-YLC-f90?controls=0" frameBorder="0"
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen
                 >
                 </iframe>
                 </div>
@@ -111,8 +109,8 @@ allow="accelerometer; autoplay; modestbranding; encrypted-media; gyroscope; pict
                   <iframe title="Second video"
                 width="420"
                 height="315"
-                src="https://www.youtube.com/embed/4xLd03M05WA?controls=0" frameborder="0"
-allow="accelerometer; autoplay; modestbranding; encrypted-media; gyroscope; picture-in-picture" allowfullscreen
+                src="https://www.youtube.com/embed/4xLd03M05WA?controls=0" frameBorder="0"
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen
               >
               </iframe>
             </div>
@@ -120,8 +118,8 @@ allow="accelerometer; autoplay; modestbranding; encrypted-media; gyroscope; pict
              <iframe title="Third video"
                 width="420"
                 height="315"
-                src="https://www.youtube.com/embed/G4Ta4qtrTMs?controls=0" frameborder="0"
-allow="accelerometer; autoplay; modestbranding; encrypted-media; gyroscope; picture-in-picture" allowfullscreen
+                src="https://www.youtube.com/embed/G4Ta4qtrTMs?controls=0" frameBorder="0"
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen
               >
               </iframe>
             </div>
@@ -129,8 +127,8 @@ allow="accelerometer; autoplay; modestbranding; encrypted-media; gyroscope; pict
              <iframe title="Fourth video"
               width="420"
               height="315"
-              src="https://www.youtube.com/embed/jCSvr2ccF4g?controls=0" frameborder="0"
-allow="accelerometer; autoplay; modestbranding; encrypted-media; gyroscope; picture-in-picture" allowfullscreen
+              src="https://www.youtube.com/embed/jCSvr2ccF4g?controls=0" frameBorder="0"
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen
             >
               </iframe>
               </div>
@@ -138,8 +136,8 @@ allow="accelerometer; autoplay; modestbranding; encrypted-media; gyroscope; pict
              <iframe title="Fifth video"
               width="420"
               height="315"
-              src="https://www.youtube.com/embed/P0kko3Lo9dM?si=tKzewqbq1rSQIsv2&controls=0" frameborder="0"
-allow="accelerometer; autoplay; modestbranding; encrypted-media; gyroscope; picture-in-picture" allowfullscreen
+              src="https://www.youtube.com/embed/P0kko3Lo9dM?si=tKzewqbq1rSQIsv2&controls=0" frameBorder="0"
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen
             >
               </iframe>
               </div>
@@ -193,20 +191,18 @@ Oliver Do</i></p>
   <section id = "interest-form-section" className="a-section">
     <h2 id = "interest-form" className="a-h2">Interest Form</h2>
     <form action = "https://formspree.io/f/mvoydgby" method = "post">
-    <label for="user-name">Name</label><input id="user-name" className="user-info"name = "name" type = "text" required minlength = "2" maxlength = "75" />
-    <label for="user-email">Email</label><input id="user-email" className="user-info" name = "email" type = "email" required minlength = "3" maxlength = "100" />
-    <label for="user-phone-number">Phone Number</label><input id="user-phone-number" className="user-info" name = "phone-number" type = "number" required minlength = "8" maxlength = "15" />
+    <label htmlFor="user-name">Name</label><input id="user-name" autoComplete="on" className="user-info"name = "name" type = "text" required minLength = "2" maxLength = "75" />
+    <label htmlFor="user-email">Email</label><input id="user-email" autoComplete="on" className="user-info" name = "email" type = "email" required minLength = "3" maxLength = "100" />
+    <label htmlFor="user-phone-number">Phone Number</label><input id="user-phone-number" className="user-info" name = "phone-number" type = "number" required minLength = "8" maxLength = "15" />
 
-   <label for="user-level">Level</label>
-        <select name="selector" className="user-info pointer-element" required>
-            <optgroup>
+   <label htmlFor="user-level">Level</label>
+        <select name="selector" id="user-level" className="user-info pointer-element" required>
           <option value="">Select an option</option>
           <option value="beginner">Beginner</option>
           <option value="intermediate">Intermediate</option>
           <option value="advanced">Advanced</option>
-          </optgroup>
         </select>
-    <label for="referral">How did you hear about Coach Gnitou?</label>
+    <label htmlFor="referral">How did you hear about Coach Gnitou?</label>
         <select name="selector" id="referral" className="user-info pointer-element" required>
           <option value="">Select an option</option>
           <option value="social-media">Social Media</option>
@@ -214,8 +210,8 @@ Oliver Do</i></p>
           <option value="friend">Friend</option>
           <option value="other">Other</option>
         </select>
-    <label for="additional-user-info">Additional Comments, Questions, and/or Concerns</label>
-      <textarea id="additional-user-inquiries" className="user-info"></textarea>
+    <label htmlFor="additional-user-info">Additional Comments, Questions, and/or Concerns</label>
+      <textarea id="additional-user-info" className="user-info"></textarea>
     <input className="submit pointer-element" type="submit" />
     </form>
   </section>
@@ -244,8 +240,7 @@ Oliver Do</i></p>
           <a href="mailto:Gnitou_peity@yahoo.com" target = "_blank" rel="noopener noreferrer" className = "contact-location">Gnitou_peity@yahoo.com</a>
     </div>
   </footer>
-</body>
-</div>)
+  </div>)
 
 }
 
