@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/gnitou-tennis-academy-website/static/css/main.f44e7502.chunk.css",
+    "main.js": "/gnitou-tennis-academy-website/static/js/main.4dd77c4c.chunk.js",
+    "main.js.map": "/gnitou-tennis-academy-website/static/js/main.4dd77c4c.chunk.js.map",
+    "runtime-main.js": "/gnitou-tennis-academy-website/static/js/runtime-main.340794ad.js",
+    "runtime-main.js.map": "/gnitou-tennis-academy-website/static/js/runtime-main.340794ad.js.map",
+    "static/js/2.c67febb1.chunk.js": "/gnitou-tennis-academy-website/static/js/2.c67febb1.chunk.js",
+    "static/js/2.c67febb1.chunk.js.map": "/gnitou-tennis-academy-website/static/js/2.c67febb1.chunk.js.map",
+    "static/js/3.a2b595a3.chunk.js": "/gnitou-tennis-academy-website/static/js/3.a2b595a3.chunk.js",
+    "static/js/3.a2b595a3.chunk.js.map": "/gnitou-tennis-academy-website/static/js/3.a2b595a3.chunk.js.map",
+    "index.html": "/gnitou-tennis-academy-website/index.html",
+    "precache-manifest.526bf65090bfc49aab3de9d2fc104f90.js": "/gnitou-tennis-academy-website/precache-manifest.526bf65090bfc49aab3de9d2fc104f90.js",
+    "service-worker.js": "/gnitou-tennis-academy-website/service-worker.js",
+    "static/css/main.f44e7502.chunk.css.map": "/gnitou-tennis-academy-website/static/css/main.f44e7502.chunk.css.map",
+    "static/js/2.c67febb1.chunk.js.LICENSE.txt": "/gnitou-tennis-academy-website/static/js/2.c67febb1.chunk.js.LICENSE.txt",
+    "static/media/facebook-icon.jpg": "/gnitou-tennis-academy-website/static/media/facebook-icon.0e3b164b.jpg",
+    "static/media/gnitou-and-children.jpg": "/gnitou-tennis-academy-website/static/media/gnitou-and-children.faddf830.jpg",
+    "static/media/gnitou-and-friend.jpg": "/gnitou-tennis-academy-website/static/media/gnitou-and-friend.bfaf2ede.jpg",
+    "static/media/gnitou-and-student.jpg": "/gnitou-tennis-academy-website/static/media/gnitou-and-student.b0d510ea.jpg",
+    "static/media/instagram-icon.jpg": "/gnitou-tennis-academy-website/static/media/instagram-icon.3f14e1cd.jpg",
+    "static/media/tiktok-icon.jpg": "/gnitou-tennis-academy-website/static/media/tiktok-icon.f0e4cd0e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.340794ad.js",
+    "static/js/2.c67febb1.chunk.js",
+    "static/css/main.f44e7502.chunk.css",
+    "static/js/main.4dd77c4c.chunk.js"
+  ]
+}
