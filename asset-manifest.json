@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/gnitou-tennis-academy-site/static/css/main.ddd7365e.chunk.css",
+    "main.js": "/gnitou-tennis-academy-site/static/js/main.22d44402.chunk.js",
+    "main.js.map": "/gnitou-tennis-academy-site/static/js/main.22d44402.chunk.js.map",
+    "runtime-main.js": "/gnitou-tennis-academy-site/static/js/runtime-main.e1561e0f.js",
+    "runtime-main.js.map": "/gnitou-tennis-academy-site/static/js/runtime-main.e1561e0f.js.map",
+    "static/js/2.c67febb1.chunk.js": "/gnitou-tennis-academy-site/static/js/2.c67febb1.chunk.js",
+    "static/js/2.c67febb1.chunk.js.map": "/gnitou-tennis-academy-site/static/js/2.c67febb1.chunk.js.map",
+    "static/js/3.a2b595a3.chunk.js": "/gnitou-tennis-academy-site/static/js/3.a2b595a3.chunk.js",
+    "static/js/3.a2b595a3.chunk.js.map": "/gnitou-tennis-academy-site/static/js/3.a2b595a3.chunk.js.map",
+    "index.html": "/gnitou-tennis-academy-site/index.html",
+    "precache-manifest.38d7b94e213b168c0471f23413ef8d7f.js": "/gnitou-tennis-academy-site/precache-manifest.38d7b94e213b168c0471f23413ef8d7f.js",
+    "service-worker.js": "/gnitou-tennis-academy-site/service-worker.js",
+    "static/css/main.ddd7365e.chunk.css.map": "/gnitou-tennis-academy-site/static/css/main.ddd7365e.chunk.css.map",
+    "static/js/2.c67febb1.chunk.js.LICENSE.txt": "/gnitou-tennis-academy-site/static/js/2.c67febb1.chunk.js.LICENSE.txt",
+    "static/media/facebook-icon.jpg": "/gnitou-tennis-academy-site/static/media/facebook-icon.0e3b164b.jpg",
+    "static/media/gnitou-and-children.jpg": "/gnitou-tennis-academy-site/static/media/gnitou-and-children.faddf830.jpg",
+    "static/media/gnitou-and-friend.jpg": "/gnitou-tennis-academy-site/static/media/gnitou-and-friend.bfaf2ede.jpg",
+    "static/media/gnitou-and-student.jpg": "/gnitou-tennis-academy-site/static/media/gnitou-and-student.b0d510ea.jpg",
+    "static/media/instagram-icon.jpg": "/gnitou-tennis-academy-site/static/media/instagram-icon.3f14e1cd.jpg",
+    "static/media/tiktok-icon.jpg": "/gnitou-tennis-academy-site/static/media/tiktok-icon.f0e4cd0e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e1561e0f.js",
+    "static/js/2.c67febb1.chunk.js",
+    "static/css/main.ddd7365e.chunk.css",
+    "static/js/main.22d44402.chunk.js"
+  ]
+}
