@@ -3,12 +3,12 @@
   "name": "Gnitou Tennis Academy",
   "icons": [
     {
-      "src": "/gta-icon.jpg",
+      "src": "gta-icon.jpg",
       "sizes": "192x192",
       "type": "image/jpeg"
     },
     {
-      "src": "/gta-icon.jpg",
+      "src": "gta-icon.jpg",
       "type": "image/jpeg",
       "sizes": "512x512"
     }
