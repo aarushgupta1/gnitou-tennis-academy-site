@@ -100,8 +100,8 @@ function App() {
                <iframe title="First video"
                 width="420"
                 height="315"
-                src="https://www.youtube.com/embed/3-R-YLC-f90?controls=0" frameBorder="0"
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen
+                src="https://www.youtube.com/embed/3-R-YLC-f90" frameBorder="0"
+allow="accelerometer; autoplay; encrypted-media; gyroscope; clipboard-write" allowFullScreen
                 >
                 </iframe>
                 </div>
@@ -109,8 +109,8 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
                   <iframe title="Second video"
                 width="420"
                 height="315"
-                src="https://www.youtube.com/embed/4xLd03M05WA?controls=0" frameBorder="0"
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen
+                src="https://www.youtube.com/embed/4xLd03M05WA" frameBorder="0"
+allow="accelerometer; autoplay; encrypted-media; gyroscope; clipboard-write" allowFullScreen
               >
               </iframe>
             </div>
@@ -118,8 +118,8 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
              <iframe title="Third video"
                 width="420"
                 height="315"
-                src="https://www.youtube.com/embed/G4Ta4qtrTMs?controls=0" frameBorder="0"
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen
+                src="https://www.youtube.com/embed/G4Ta4qtrTMs" frameBorder="0"
+allow="accelerometer; autoplay; encrypted-media; gyroscope; clipboard-write" allowFullScreen
               >
               </iframe>
             </div>
@@ -127,8 +127,8 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
              <iframe title="Fourth video"
               width="420"
               height="315"
-              src="https://www.youtube.com/embed/jCSvr2ccF4g?controls=0" frameBorder="0"
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen
+              src="https://www.youtube.com/embed/jCSvr2ccF4g" frameBorder="0"
+allow="accelerometer; autoplay; encrypted-media; gyroscope; clipboard-write" allowFullScreen
             >
               </iframe>
               </div>
@@ -136,8 +136,8 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
              <iframe title="Fifth video"
               width="420"
               height="315"
-              src="https://www.youtube.com/embed/P0kko3Lo9dM?si=tKzewqbq1rSQIsv2&controls=0" frameBorder="0"
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen
+              src="https://www.youtube.com/embed/P0kko3Lo9dM?si=tKzewqbq1rSQIsv2" frameBorder="0"
+allow="accelerometer; autoplay; encrypted-media; gyroscope; clipboard-write" allowFullScreen
             >
               </iframe>
   
