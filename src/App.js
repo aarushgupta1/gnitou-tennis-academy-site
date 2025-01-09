@@ -143,13 +143,12 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
   
               </div>
            <div>
-             <iframe title="First short"
-              width="420"
-              height="315"
-              src="https://youtube.com/embed/_DLeYd-34KM?si=UJhn6ZF3gtg198P-" frameBorder="0"
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen
-            >
-              </iframe>
+             <iframe width="315" height="560"
+              src="https://www.youtube.com/embed/_DLeYd-34KM?si=MUCjERj6ZdScvEUd"
+              title="YouTube video player"
+              frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope"
+              allowFullScreen></iframe>
   
               </div>
         </div>
