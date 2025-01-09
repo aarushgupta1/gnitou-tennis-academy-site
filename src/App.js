@@ -5,7 +5,7 @@ import youtube_icon from '/youtube-icon.jpg';
 import gnitou_and_student from '/gnitou-and-student.jpg';
 import gnitou_and_friend from '/gnitou-and-friend.jpg';
 import gnitou_and_children from '/gnitou-and-children.jpg';
-import '/App.css';
+import './App.css';
 import React, { useState, useEffect } from 'react';
 
 function NormalDiv() {
