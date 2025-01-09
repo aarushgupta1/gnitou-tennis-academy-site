@@ -5,8 +5,8 @@ import youtube_icon from './images/youtube-icon.jpg';
 import gnitou_and_student from './images/gnitou-and-student.jpg';
 import gnitou_and_friend from './images/gnitou-and-friend.jpg';
 import gnitou_and_children from './images/gnitou-and-children.jpg';
+import "./App.css"
 import React, { useState, useEffect } from 'react';
-import "./App.css"  
 
 function NormalDiv() {
   return (
@@ -37,7 +37,7 @@ function DropDownDiv() {
 function SmallNormalHeader() {
   return (<header id="normal-header">
       <div className="gta-container flex-element">
-        <div className="gta-icon-container"><img className="gta-icon" src="gta-icon.jpg"  alt="Gnitou Tennis Academy icon" />
+        <div className="gta-icon-container"><img className="gta-icon" src="/gta-icon.jpg"  alt="Gnitou Tennis Academy icon" />
         <h1>Gnitou Tennis Academy</h1></div>
         <p className="drop-down" id="drop-down-bars">__<br></br>__<br></br>__</p>
       </div>
