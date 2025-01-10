@@ -170,7 +170,7 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; clipboard-write" all
         </div>
   </section>
   <section id = "testimonials-section" className="b-section">
-       <h2 id = "testimonials" className="b-h2">What Students Say About Coach Gnitou</h2>
+       <h2 id = "testimonials" className="b-h2">What Students Have to Say About Coach Gnitou</h2>
             <div className = "testimonial">
               <p className="review"><strong className="quotes">"</strong>Coach has a great eye for your technique and has a lot of tennis intelligence and experience. Thumbs up!<strong className="quotes">"</strong></p>
               <p className="rating"><span role="img" aria-label="rating">⭐⭐⭐⭐⭐</span></p>
