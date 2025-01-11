@@ -247,7 +247,7 @@ Oliver Do</i></p>
     </div>
     <div className="contact-gnitou flex-element">
          <a href="tel:772-626-5504" target = "_blank" rel="noopener noreferrer" className = "contact-location">772-626-5504</a> 
-          <a href="mailto:Gnitou_peity@yahoo.com" target = "_blank" rel="noopener noreferrer" className = "contact-location">Gnitou_peity@yahoo.com</a>
+          <a href="mailto:gnitou_peity@yahoo.com" target = "_blank" rel="noopener noreferrer" className = "contact-location">gnitou_peity@yahoo.com</a>
     </div>
   </footer>
   </div>)
