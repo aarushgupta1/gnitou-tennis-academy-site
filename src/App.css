@@ -318,7 +318,7 @@
     height: 0;
   }
 
-@media only screen and (max-width: 900px) {
+@media screen and (max-width: 900px) {
     /* header and page in general */
     #normal-header {
         height: 3.15vw;
@@ -396,7 +396,7 @@
     }     
   }
 
-  @media only screen and (max-width: 676px) {
+  @media screen and (max-width: 676px) {
     /* bio-section */
     .gnitou-pic {
         width: max(325px, 35vw); 
