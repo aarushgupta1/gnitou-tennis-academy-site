@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "babab71aab27ce3c7b8cdee82e29fba4",
+    "revision": "6f1b4978671863c15a2e35893b717e57",
     "url": "/index.html"
   },
   {
-    "revision": "eaa3d5652bfaaf89bf7b",
-    "url": "/static/css/main.c1878c78.chunk.css"
+    "revision": "84b94f9b948f9fceaa80",
+    "url": "/static/css/main.6b0ddce6.chunk.css"
   },
   {
     "revision": "1b7eaf11605dc0a69b7d",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/3.a2b595a3.chunk.js"
   },
   {
-    "revision": "eaa3d5652bfaaf89bf7b",
-    "url": "/static/js/main.be0e2358.chunk.js"
+    "revision": "84b94f9b948f9fceaa80",
+    "url": "/static/js/main.09063869.chunk.js"
   },
   {
     "revision": "eddca44183a238407922",
@@ -36,8 +36,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/gnitou-and-children.faddf830.jpg"
   },
   {
-    "revision": "bfaf2ede40d1c306f81ef8a19ad45e31",
-    "url": "/static/media/gnitou-and-friend.bfaf2ede.jpg"
+    "revision": "1c6dc967bcd922f75252ca7bea3a4a9c",
+    "url": "/static/media/gnitou-and-player.1c6dc967.jpg"
   },
   {
     "revision": "b0d510ea21c651a1411fa90013e446f2",
