@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.6b0ddce6.chunk.css",
+    "main.css": "/static/css/main.d35eaca7.chunk.css",
     "main.js": "/static/js/main.09063869.chunk.js",
     "main.js.map": "/static/js/main.09063869.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ff5eeabe.js",
@@ -10,9 +10,9 @@
     "static/js/3.a2b595a3.chunk.js": "/static/js/3.a2b595a3.chunk.js",
     "static/js/3.a2b595a3.chunk.js.map": "/static/js/3.a2b595a3.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.9ae981fa1f278f38dfe91ae278812738.js": "/precache-manifest.9ae981fa1f278f38dfe91ae278812738.js",
+    "precache-manifest.f88b9ec5c94531fac9d251f4e3cbcbc1.js": "/precache-manifest.f88b9ec5c94531fac9d251f4e3cbcbc1.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.6b0ddce6.chunk.css.map": "/static/css/main.6b0ddce6.chunk.css.map",
+    "static/css/main.d35eaca7.chunk.css.map": "/static/css/main.d35eaca7.chunk.css.map",
     "static/js/2.c67febb1.chunk.js.LICENSE.txt": "/static/js/2.c67febb1.chunk.js.LICENSE.txt",
     "static/media/facebook-icon.jpg": "/static/media/facebook-icon.0e3b164b.jpg",
     "static/media/gnitou-and-children.jpg": "/static/media/gnitou-and-children.faddf830.jpg",
@@ -24,7 +24,7 @@
   "entrypoints": [
     "static/js/runtime-main.ff5eeabe.js",
     "static/js/2.c67febb1.chunk.js",
-    "static/css/main.6b0ddce6.chunk.css",
+    "static/css/main.d35eaca7.chunk.css",
     "static/js/main.09063869.chunk.js"
   ]
 }
