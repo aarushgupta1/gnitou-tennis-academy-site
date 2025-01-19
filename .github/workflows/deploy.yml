@@ -24,9 +24,6 @@ jobs:
     - name: Build
       run: npm run build
 
-    - name: Copy images folder
-      run: cp -r public/images build/
-
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
       with:
