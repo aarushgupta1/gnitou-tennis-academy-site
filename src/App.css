@@ -239,7 +239,7 @@
   }
   .user-info {
       padding-left: 1vw;
-      margin: max(12.5px, 1.25vw) 0 max(25px, 2.75vw);
+      margin: max(12.5px, 1.25vw) auto max(25px, 2.75vw);
       font-size: 1.5vw;
       text-align: left;
       display: block;
