@@ -1,10 +1,3 @@
-import facebook_icon from "/images/facebook-icon.jpg";
-import instagram_icon from "/images/instagram-icon.jpg";
-import tiktok_icon from "/images/tiktok-icon.jpg";
-import youtube_icon from "/images/youtube-icon.jpg";
-import gnitou_and_student from "/images/gnitou-and-student.jpg";
-import gnitou_and_friend from "/images/gnitou-and-friend.jpg";
-import gnitou_and_children from "/images/gnitou-and-children.jpg";
 import './App.css';
 import React, { useState, useEffect } from 'react';
 
@@ -48,7 +41,7 @@ function SmallNormalHeader() {
 function BigNormalHeader() {
   return (<header id="normal-header">
     <div className="gta-container flex-element">
-      <div className="gta-icon-container"><img className="gta-icon" src="gta-icon.jpg" alt="Gnitou Tennis Academy icon" />
+      <div className="gta-icon-container"><img className="gta-icon" src="/gta-icon.jpg" alt="Gnitou Tennis Academy icon" />
       <h1>Gnitou Tennis Academy</h1></div>
     </div> 
     <NormalDiv/>
@@ -91,7 +84,7 @@ function App() {
         <li className="lesson-bullet">Coach Gnitou works with both children & adults.</li>
         <li className="lesson-bullet">Coach Gnitou offers private, semiprivate, & group lessons (up to 4 people & 2 hours).</li>
       </ol>
-      <img className="gnitou-pic" src={gnitou_and_children} alt="Coach Gnitou with Children"/>
+      <img className="gnitou-pic" src="/images/gnitou-and-children.jpg" alt="Coach Gnitou with Children"/>
     </section>
     <section id = "demos-section" className="b-section">
       <h2 id = "demos" className="b-h2">See Coach Gnitou's Coaching Firsthand</h2>
@@ -163,10 +156,10 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; clipboard-write" all
           <li className="bio-bullet">is MOT master certified.</li>
         </ol>
         <div className="bio-pics-container">
-          <img className="gnitou-pic" src={gnitou_and_friend} alt="Coach Gnitou with Friend"/>
+          <img className="gnitou-pic" src="/images/gnitou-and-player.jpg" alt="Coach Gnitou with Player"/>
         </div>
         <div className="bio-pics-container">
-          <img className="gnitou-pic" src={gnitou_and_student} alt="Coach Gnitou with Student"/>
+          <img className="gnitou-pic" src="/images/gnitou-and-student.jpg" alt="Coach Gnitou with Student"/>
         </div>
   </section>
   <section id = "testimonials-section" className="b-section">
@@ -229,21 +222,21 @@ Oliver Do</i></p>
   <footer>
     <div>
       <a href="https://www.instagram.com/gnitou_tennis_academy/" target="_blank" rel="noopener noreferrer"
-      ><img src={instagram_icon} alt="instagram icon" className="social-icon" 
+      ><img src="/images/instagram-icon.jpg" alt="instagram icon" className="social-icon" 
         /></a>
       <a href="https://www.facebook.com/Gnitou-tennis-academy-105739311342289"
          target="_blank" rel="noopener noreferrer"
-      ><img src={facebook_icon}
+      ><img src="/images/facebook-icon.jpg"
              alt="facebook icon"
             className="social-icon"
       /></a>
       <a href="https://www.youtube.com/channel/UCp7OAXdH22dV5FRyiDGvH1A"
          target="_blank" rel="noopener noreferrer"
-      ><img src={youtube_icon} alt="youtube icon" className="social-icon"
+      ><img src="/images/youtube-icon.jpg" alt="youtube icon" className="social-icon"
       /></a>
       <a href="https://www.tiktok.com/@gnitoutennisacademy"
         target="_blank" rel="noopener noreferrer"
-      ><img src={tiktok_icon} alt="tiktok icon" className="social-icon"/></a>
+      ><img src="/images/tiktok-icon.jpg" alt="tiktok icon" className="social-icon"/></a>
     </div>
     <div className="contact-gnitou flex-element">
          <a href="tel:772-626-5504" target = "_blank" rel="noopener noreferrer" className = "contact-location">772-626-5504</a> 
