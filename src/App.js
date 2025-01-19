@@ -1,10 +1,10 @@
-import facebook_icon from '/public/images/facebook-icon.jpg';
-import instagram_icon from '/public/images/instagram-icon.jpg';
-import tiktok_icon from '/public/images/tiktok-icon.jpg';
-import youtube_icon from '/public/images/youtube-icon.jpg';
-import gnitou_and_student from '/public/images/gnitou-and-student.jpg';
-import gnitou_and_friend from '/public/images/gnitou-and-friend.jpg';
-import gnitou_and_children from '/public/images/gnitou-and-children.jpg';
+import facebook_icon from './public/images/facebook-icon.jpg';
+import instagram_icon from './public/images/instagram-icon.jpg';
+import tiktok_icon from './public/images/tiktok-icon.jpg';
+import youtube_icon from './public/images/youtube-icon.jpg';
+import gnitou_and_student from './public/images/gnitou-and-student.jpg';
+import gnitou_and_friend from './public/images/gnitou-and-friend.jpg';
+import gnitou_and_children from './public/images/gnitou-and-children.jpg';
 import './App.css';
 import React, { useState, useEffect } from 'react';
 
