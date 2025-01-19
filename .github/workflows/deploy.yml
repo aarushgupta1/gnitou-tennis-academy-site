@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repository
+    - name: Checkout code
       uses: actions/checkout@v2
 
     - name: Set up Node.js
@@ -21,12 +21,15 @@ jobs:
     - name: Install dependencies
       run: npm install
 
-    - name: Build the app
+    - name: Build
       run: npm run build
+
+    - name: Copy images folder
+      run: cp -r public/images build/
 
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
       with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./build
-        publish_branch: gh-pages
+        token: ${{ secrets.GITHUB_TOKEN }}
+        folder: build
+        branch: gh-pages
