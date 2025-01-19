@@ -385,7 +385,7 @@
         text-align: left; 
         font-family: times new roman;
         color: rgb(75, 75, 75);
-        font-size: clamp(9.5px, 1.9vw, 24px);
+        font-size: clamp(9px, 2.5vw, 24px);
         line-height: 2.7;  
     } 
     .drop-down-div, .gta-container, .gta-icon {
