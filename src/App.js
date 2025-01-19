@@ -30,7 +30,7 @@ function DropDownDiv() {
 function SmallNormalHeader() {
   return (<header id="normal-header">
       <div className="gta-container flex-element">
-        <div className="gta-icon-container"><img className="gta-icon" src="/gta-icon.jpg"  alt="Gnitou Tennis Academy icon" />
+        <div className="gta-icon-container"><img className="gta-icon" src="/gnitou-tennis-academy-site/gta-icon.jpg"  alt="Gnitou Tennis Academy icon" />
         <h1>Gnitou Tennis Academy</h1></div>
         <p className="drop-down" id="drop-down-bars">__<br></br>__<br></br>__</p>
       </div>
@@ -41,7 +41,7 @@ function SmallNormalHeader() {
 function BigNormalHeader() {
   return (<header id="normal-header">
     <div className="gta-container flex-element">
-      <div className="gta-icon-container"><img className="gta-icon" src="/gta-icon.jpg" alt="Gnitou Tennis Academy icon" />
+      <div className="gta-icon-container"><img className="gta-icon" src="/gnitou-tennis-academy-site/gta-icon.jpg" alt="Gnitou Tennis Academy icon" />
       <h1>Gnitou Tennis Academy</h1></div>
     </div> 
     <NormalDiv/>
@@ -50,7 +50,7 @@ function BigNormalHeader() {
 function DropDownHeader() {
   return (<header id="drop-down-header">
       <div className="gta-container flex-element">
-        <div className="gta-icon-container"><img className="gta-icon" src="gta-icon.jpg" alt="Gnitou Tennis Academy icon" />
+        <div className="gta-icon-container"><img className="gta-icon" src="/gnitou-tennis-academy-sitegta-icon.jpg" alt="Gnitou Tennis Academy icon" />
         <h1>Gnitou Tennis Academy</h1></div>
         <p className="drop-down" id="drop-down-x">&#x2715;</p>
       </div>
@@ -84,7 +84,7 @@ function App() {
         <li className="lesson-bullet">Coach Gnitou works with both children & adults.</li>
         <li className="lesson-bullet">Coach Gnitou offers private, semiprivate, & group lessons (up to 4 people & 2 hours).</li>
       </ol>
-      <img className="gnitou-pic" src="/images/gnitou-and-children.jpg" alt="Coach Gnitou with Children"/>
+      <img className="gnitou-pic" src="/gnitou-tennis-academy-site/images/gnitou-and-children.jpg" alt="Coach Gnitou with Children"/>
     </section>
     <section id = "demos-section" className="b-section">
       <h2 id = "demos" className="b-h2">See Coach Gnitou's Coaching Firsthand</h2>
@@ -156,10 +156,10 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; clipboard-write" all
           <li className="bio-bullet">is MOT master certified.</li>
         </ol>
         <div className="bio-pics-container">
-          <img className="gnitou-pic" src="/images/gnitou-and-player.jpg" alt="Coach Gnitou with Player"/>
+          <img className="gnitou-pic" src="/gnitou-tennis-academy-site/images/gnitou-and-player.jpg" alt="Coach Gnitou with Player"/>
         </div>
         <div className="bio-pics-container">
-          <img className="gnitou-pic" src="/images/gnitou-and-student.jpg" alt="Coach Gnitou with Student"/>
+          <img className="gnitou-pic" src="/gnitou-tennis-academy-site/images/gnitou-and-student.jpg" alt="Coach Gnitou with Student"/>
         </div>
   </section>
   <section id = "testimonials-section" className="b-section">
@@ -222,21 +222,21 @@ Oliver Do</i></p>
   <footer>
     <div>
       <a href="https://www.instagram.com/gnitou_tennis_academy/" target="_blank" rel="noopener noreferrer"
-      ><img src="/images/instagram-icon.jpg" alt="instagram icon" className="social-icon" 
+      ><img src="/gnitou-tennis-academy-site/images/instagram-icon.jpg" alt="instagram icon" className="social-icon" 
         /></a>
       <a href="https://www.facebook.com/Gnitou-tennis-academy-105739311342289"
          target="_blank" rel="noopener noreferrer"
-      ><img src="/images/facebook-icon.jpg"
+      ><img src="/gnitou-tennis-academy-site/images/facebook-icon.jpg"
              alt="facebook icon"
             className="social-icon"
       /></a>
       <a href="https://www.youtube.com/channel/UCp7OAXdH22dV5FRyiDGvH1A"
          target="_blank" rel="noopener noreferrer"
-      ><img src="/images/youtube-icon.jpg" alt="youtube icon" className="social-icon"
+      ><img src="/gnitou-tennis-academy-site/images/youtube-icon.jpg" alt="youtube icon" className="social-icon"
       /></a>
       <a href="https://www.tiktok.com/@gnitoutennisacademy"
         target="_blank" rel="noopener noreferrer"
-      ><img src="/images/tiktok-icon.jpg" alt="tiktok icon" className="social-icon"/></a>
+      ><img src="/gnitou-tennis-academy-site/images/tiktok-icon.jpg" alt="tiktok icon" className="social-icon"/></a>
     </div>
     <div className="contact-gnitou flex-element">
          <a href="tel:772-626-5504" target = "_blank" rel="noopener noreferrer" className = "contact-location">772-626-5504</a> 
