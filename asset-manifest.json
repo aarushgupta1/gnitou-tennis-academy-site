@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/gnitou-tennis-academy-site/static/css/main.8fec07ba.chunk.css",
-    "main.js": "/gnitou-tennis-academy-site/static/js/main.af0e3e58.chunk.js",
-    "main.js.map": "/gnitou-tennis-academy-site/static/js/main.af0e3e58.chunk.js.map",
+    "main.js": "/gnitou-tennis-academy-site/static/js/main.d4588f91.chunk.js",
+    "main.js.map": "/gnitou-tennis-academy-site/static/js/main.d4588f91.chunk.js.map",
     "runtime-main.js": "/gnitou-tennis-academy-site/static/js/runtime-main.532c5a01.js",
     "runtime-main.js.map": "/gnitou-tennis-academy-site/static/js/runtime-main.532c5a01.js.map",
     "static/js/2.c267210f.chunk.js": "/gnitou-tennis-academy-site/static/js/2.c267210f.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.6cbcc1d6.chunk.js": "/gnitou-tennis-academy-site/static/js/3.6cbcc1d6.chunk.js",
     "static/js/3.6cbcc1d6.chunk.js.map": "/gnitou-tennis-academy-site/static/js/3.6cbcc1d6.chunk.js.map",
     "index.html": "/gnitou-tennis-academy-site/index.html",
-    "precache-manifest.6aaf4085c67d723b851354b49a7f7a68.js": "/gnitou-tennis-academy-site/precache-manifest.6aaf4085c67d723b851354b49a7f7a68.js",
+    "precache-manifest.196d0c9ff720db4e87dc8a128db0ba3a.js": "/gnitou-tennis-academy-site/precache-manifest.196d0c9ff720db4e87dc8a128db0ba3a.js",
     "service-worker.js": "/gnitou-tennis-academy-site/service-worker.js",
     "static/css/main.8fec07ba.chunk.css.map": "/gnitou-tennis-academy-site/static/css/main.8fec07ba.chunk.css.map",
     "static/js/2.c267210f.chunk.js.LICENSE.txt": "/gnitou-tennis-academy-site/static/js/2.c267210f.chunk.js.LICENSE.txt"
@@ -19,6 +19,6 @@
     "static/js/runtime-main.532c5a01.js",
     "static/js/2.c267210f.chunk.js",
     "static/css/main.8fec07ba.chunk.css",
-    "static/js/main.af0e3e58.chunk.js"
+    "static/js/main.d4588f91.chunk.js"
   ]
 }
