@@ -87,7 +87,7 @@ function App() {
     <section id = "lessons-section" className="a-section">
       <h2 id = "lessons" className="a-h2">Learn from Coach Gnitou</h2>
       <ol>
-        <li className="lesson-bullet">Coach Gnitou really develops his students' technique, footwork, & strategy.</li>
+        <li className="lesson-bullet">Coach Gnitou very much develops his students' technique, footwork, & strategy.</li>
         <li className="lesson-bullet">Coach Gnitou works with both children & adults.</li>
         <li className="lesson-bullet">Coach Gnitou offers private, semiprivate, & group lessons (up to 4 people & 2 hours).</li>
       </ol>
