@@ -50,7 +50,7 @@ function BigNormalHeader() {
 function DropDownHeader() {
   return (<header id="drop-down-header">
       <div className="gta-container flex-element">
-        <div className="gta-icon-container"><img className="gta-icon" src="/gnitou-tennis-academy-sitegta-icon.jpg" alt="Gnitou Tennis Academy icon" />
+        <div className="gta-icon-container"><img className="gta-icon" src="/gnitou-tennis-academy-site/gta-icon.jpg" alt="Gnitou Tennis Academy icon" />
         <h1>Gnitou Tennis Academy</h1></div>
         <p className="drop-down" id="drop-down-x">&#x2715;</p>
       </div>
