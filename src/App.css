@@ -226,7 +226,7 @@
       font-family: times new roman;
       padding-left: clamp(4px, 0.5vw, 10px);
       margin: max(10px, 1.5vw) auto max(25px, 2.75vw);
-      font-size: 1.4vw;
+      font-size: min(16px, 1.4vw);
       text-align: left;
       display: block;
       width: 35vw;
