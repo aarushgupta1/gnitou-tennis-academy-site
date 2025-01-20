@@ -110,7 +110,7 @@
       margin-right: max(10px, 2.25vw);
       font-family: times new roman;
       color: rgb(75, 75, 75);
-      font-size: clamp(12.5px, 1.4vw, 20px);
+      font-size: clamp(12.5px, 1.1vw, 20px);
       transition: 0.35s;
       transition-property: color;
   }
@@ -347,7 +347,7 @@
       display: flex;
       justify-content: space-evenly;
       align-items: center;
-      width: 30%;
+      width: 40%;
     }
     .drop-down-div { 
         left: 0;
