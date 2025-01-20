@@ -3,7 +3,6 @@
       scroll-behavior: smooth;
     }
   }
-   /* header and page in general */
   html, body {
       margin: 10px 0 0 0;
       padding: 0;
@@ -118,7 +117,6 @@
     display: flex;
     vertical-align: middle;
   }
-  /* lessons-section */
   p, li {
       font-family: serif;
       font-size: max(1.5vw, 15.5px);
@@ -141,7 +139,6 @@
       line-height: 1.5;
       list-style-type: none;
   }
-  /* demos-section */
   iframe {
     width: 50vw;
     height: 40vw;
@@ -150,9 +147,6 @@
     margin-bottom: 8vh;
     border-radius: 4%;
   }
-
-
-  /* bio-section */
   .bio-bullet:last-of-type {
       margin-bottom: 2.5vw;
   }
@@ -168,7 +162,6 @@
       vertical-align: middle;
       font-size: 1.5vw;
   }
-  /* testimonials-section */
   #testimonials {
     margin-bottom: 7.5vh;
   }
@@ -206,7 +199,6 @@
   .quotes {
    font-size: max(2vw, 10px);
   }
-  /* interest-form-section */
   form {
     border: 0.2vw solid black;
     border-radius: min(20px, 5vw);
@@ -229,11 +221,8 @@
       font-size: max(16px, 1.4vw);
       text-align: left;
       display: block;
-      width: 35vw;
-      max-width: 500px;
-      height: 15vw;
-      min-height: 10px;
-
+      width: clamp(100px, 35vw, 570px);
+      height: clamp(10px, 15vw, 400px);
   }
   .user-info:focus {
       outline: none;
@@ -241,9 +230,9 @@
   }
   .user-info:not(#additional-user-info) {
       border: 0;
-      border-radius: 0.85vw;
-      height: 3.25vw;
-      width: 19vw;
+      border-radius: clamp(2px, 1vw, 10px);
+      height: clamp(5px, 3.75vw, 55px);
+      width: clamp(30px, 19vw, 290px);
   }
   .pointer-element {
       cursor: pointer;
@@ -252,6 +241,9 @@
       margin-top: 1vw; 
       color: black;
       font-size: 100px;
+  }
+  #referral, #user-level {
+    font-size: clamp(7px, 1.6vw, 19px);
   }
   textarea {
       height: max(55px, 7vw);
@@ -276,7 +268,6 @@
   .submit:active {
       opacity: 0.8;
   }
-  /* footer */
   footer {
       background: rgb(240, 240, 240);
   }
@@ -309,7 +300,6 @@
   }
 
 @media screen and (max-width: 900px) {
-    /* header and page in general */
     #normal-header {
         height: 3.15vw;
     }
@@ -381,7 +371,6 @@
   }
 
   @media screen and (max-width: 676px) {
-    /* bio-section */
     .gnitou-pic {
         width: max(325px, 35vw); 
         height: auto; 
