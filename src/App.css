@@ -222,7 +222,7 @@
       text-align: left;
       display: block;
       width: clamp(100px, 35vw, 570px);
-      height: clamp(10px, 15vw, 400px);
+      height: clamp(10px, 19vw, 400px);
   }
   .user-info:focus {
       outline: none;
@@ -232,7 +232,7 @@
       border: 0;
       border-radius: clamp(2px, 1vw, 10px);
       height: clamp(5px, 3.75vw, 55px);
-      width: clamp(30px, 19vw, 290px);
+      width: clamp(30px, 21.5vw, 270px);
   }
   .pointer-element {
       cursor: pointer;
