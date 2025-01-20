@@ -397,6 +397,6 @@
   }
   @media screen and (max-width: 430px) {
     .drop-down-header-nav {
-        font-size: 13px;
+        font-size: clamp(14px, 3.3vw, 20px);
     } 
   }
