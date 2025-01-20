@@ -5,11 +5,11 @@ function NormalDiv() {
   return (
     <div className="normal-div">
       <ul className="flex-element">
-        <li><a className="header-nav" href="#lessons">Lessons</a></li>
-        <li><a className="header-nav" href="#demos">Demos</a></li>
-        <li><a className="header-nav" href="#bio">Bio</a></li>
-        <li><a className="header-nav" href="#testimonials">Testimonials</a></li>
-        <li><a className="header-nav" href="#interest-form">Interest Form</a></li>
+        <li className="header-nav-list"><a className="header-nav" href="#lessons">Lessons</a></li>
+        <li className="header-nav-list"><a className="header-nav" href="#demos">Demos</a></li>
+        <li className="header-nav-list"><a className="header-nav" href="#bio">Bio</a></li>
+        <li className="header-nav-list"><a className="header-nav" href="#testimonials">Testimonials</a></li>
+        <li className="header-nav-list"><a className="header-nav" href="#interest-form">Interest Form</a></li>
       </ul>
     </div>
   )
