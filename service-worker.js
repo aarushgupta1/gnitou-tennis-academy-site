@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/gnitou-tennis-academy-site/precache-manifest.b0a77a25cd428fcc737e4fcd909f5d32.js"
+  "/gnitou-tennis-academy-site/precache-manifest.0edbb8a6d7945515980fc9add69e0fe6.js"
 );
 
 self.addEventListener('message', (event) => {
