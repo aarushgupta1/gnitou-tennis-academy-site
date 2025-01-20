@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f4ebe2511bf99b79cf813c1de443e852",
+    "revision": "4a92cb33533e771a3cc355490b6cac09",
     "url": "/gnitou-tennis-academy-site/index.html"
   },
   {
-    "revision": "d57a3d74f69b2f0ff760",
-    "url": "/gnitou-tennis-academy-site/static/css/main.b0ecec58.chunk.css"
+    "revision": "8ac5cfdb3aa55a00086f",
+    "url": "/gnitou-tennis-academy-site/static/css/main.03e0731d.chunk.css"
   },
   {
     "revision": "0b806098d5f7fe779480",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gnitou-tennis-academy-site/static/js/3.6cbcc1d6.chunk.js"
   },
   {
-    "revision": "d57a3d74f69b2f0ff760",
+    "revision": "8ac5cfdb3aa55a00086f",
     "url": "/gnitou-tennis-academy-site/static/js/main.1601e2f4.chunk.js"
   },
   {
