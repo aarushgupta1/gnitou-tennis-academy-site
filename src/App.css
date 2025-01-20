@@ -80,7 +80,7 @@
   #lessons {
       scroll-margin-top: max(100px, 5vw);
       display: inline-block;
-      margin-top: clamp(50px, 5.25vw, 100px);
+      margin-top: clamp(40px, 4.25vw, 100px);
       margin-bottom: max(25px, 3vw);
       text-align: center;
   }
