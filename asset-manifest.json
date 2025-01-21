@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/gnitou-tennis-academy-site/static/css/main.b3c5d4e5.chunk.css",
-    "main.js": "/gnitou-tennis-academy-site/static/js/main.1601e2f4.chunk.js",
-    "main.js.map": "/gnitou-tennis-academy-site/static/js/main.1601e2f4.chunk.js.map",
-    "runtime-main.js": "/gnitou-tennis-academy-site/static/js/runtime-main.532c5a01.js",
-    "runtime-main.js.map": "/gnitou-tennis-academy-site/static/js/runtime-main.532c5a01.js.map",
-    "static/js/2.c267210f.chunk.js": "/gnitou-tennis-academy-site/static/js/2.c267210f.chunk.js",
-    "static/js/2.c267210f.chunk.js.map": "/gnitou-tennis-academy-site/static/js/2.c267210f.chunk.js.map",
-    "static/js/3.6cbcc1d6.chunk.js": "/gnitou-tennis-academy-site/static/js/3.6cbcc1d6.chunk.js",
-    "static/js/3.6cbcc1d6.chunk.js.map": "/gnitou-tennis-academy-site/static/js/3.6cbcc1d6.chunk.js.map",
-    "index.html": "/gnitou-tennis-academy-site/index.html",
-    "precache-manifest.cce11fd81178ab53f8d4f53eef8f8530.js": "/gnitou-tennis-academy-site/precache-manifest.cce11fd81178ab53f8d4f53eef8f8530.js",
-    "service-worker.js": "/gnitou-tennis-academy-site/service-worker.js",
-    "static/css/main.b3c5d4e5.chunk.css.map": "/gnitou-tennis-academy-site/static/css/main.b3c5d4e5.chunk.css.map",
-    "static/js/2.c267210f.chunk.js.LICENSE.txt": "/gnitou-tennis-academy-site/static/js/2.c267210f.chunk.js.LICENSE.txt"
+    "main.css": "/static/css/main.b3c5d4e5.chunk.css",
+    "main.js": "/static/js/main.1601e2f4.chunk.js",
+    "main.js.map": "/static/js/main.1601e2f4.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.df7c62ac.js",
+    "runtime-main.js.map": "/static/js/runtime-main.df7c62ac.js.map",
+    "static/js/2.c267210f.chunk.js": "/static/js/2.c267210f.chunk.js",
+    "static/js/2.c267210f.chunk.js.map": "/static/js/2.c267210f.chunk.js.map",
+    "static/js/3.6cbcc1d6.chunk.js": "/static/js/3.6cbcc1d6.chunk.js",
+    "static/js/3.6cbcc1d6.chunk.js.map": "/static/js/3.6cbcc1d6.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e06a6f02f02ca393fa7bc980dcd37b84.js": "/precache-manifest.e06a6f02f02ca393fa7bc980dcd37b84.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.b3c5d4e5.chunk.css.map": "/static/css/main.b3c5d4e5.chunk.css.map",
+    "static/js/2.c267210f.chunk.js.LICENSE.txt": "/static/js/2.c267210f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.532c5a01.js",
+    "static/js/runtime-main.df7c62ac.js",
     "static/js/2.c267210f.chunk.js",
     "static/css/main.b3c5d4e5.chunk.css",
     "static/js/main.1601e2f4.chunk.js"
